@@ -1,0 +1,27 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Data
+data/
+
+# PyTorch Lightning
+tb_logs/
+checkpoints/
+lightning_logs/
+
+# OS
+.DS_Store
+Thumbs.db
