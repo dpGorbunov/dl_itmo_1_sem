@@ -14,9 +14,13 @@ venv/
 env/
 ENV/
 
-# Results and outputs
-grid_search_results.csv
-*.json
+# Data
+data/
+
+# PyTorch Lightning
+tb_logs/
+checkpoints/
+lightning_logs/
 
 # OS
 .DS_Store
