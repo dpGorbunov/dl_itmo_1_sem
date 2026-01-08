@@ -1,0 +1,32 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# HuggingFace Trainer outputs
+results_*/
+logs_*/
+tmp_trainer/
+
+# PyTorch Lightning
+tb_logs/
+checkpoints/
+lightning_logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
