@@ -14,6 +14,10 @@ venv/
 env/
 ENV/
 
+# HuggingFace Trainer outputs
+results_*/
+logs_*/
+tmp_trainer/
 # Data
 data/
 *.csv
