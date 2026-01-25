@@ -16,6 +16,8 @@ ENV/
 
 # Data
 data/
+*.csv
+hw_3/data/
 
 # PyTorch Lightning
 tb_logs/
@@ -25,3 +27,6 @@ lightning_logs/
 # OS
 .DS_Store
 Thumbs.db
+
+# IDE
+.idea/
