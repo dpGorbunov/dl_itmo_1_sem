@@ -1,5 +1,13 @@
 # Jupyter Notebook
 .ipynb_checkpoints/
+
+# Data files
+*.csv
+!submission_super_ensemble.csv
+*.zip
+
+# Model checkpoints
+*.pt
 *.ipynb_checkpoints
 
 # Python
